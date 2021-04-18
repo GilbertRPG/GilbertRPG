@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Factorio mods! (For now~)
 - 📫 How to reach me? Discord: GilbertRPG#3653
 
+- !! I just started CodingDojo's "Data Science" Course. Excited to see where this takes me.
+
 <!---
 GilbertRPG/GilbertRPG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
